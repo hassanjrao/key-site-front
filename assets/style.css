@@ -43,6 +43,16 @@ p{
     color: white !important;
 }
 
+#navbarNav ul {
+    border: 1px solid #9fa0a1 !important;
+    border-radius: 15px;
+    padding: 0px 20px;
+}
+
+#navbarNav ul li {
+    padding: 0px 18px;
+}
+
 .btn-pink {
     background-color: var(--primaryColor);
     color: white;
