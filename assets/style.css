@@ -47,6 +47,7 @@ p{
     border: 1px solid #9fa0a1 !important;
     border-radius: 15px;
     padding: 0px 20px;
+    background-color: var(--themeColorSecondary);
 }
 
 #navbarNav ul li {
