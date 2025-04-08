@@ -184,3 +184,24 @@ footer a:hover {
     color: white !important;
 }
 
+  
+  .circle-wrapper {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    margin: 0 auto 30px auto;
+    border: 5px solid var(--primaryColor);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .circle-text {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1rem;
+  }
+  
+  
